@@ -1,3 +1,4 @@
+alert("Plz use Arrow Keys to play this game");
 const snakeBoard = document.querySelector(".board");
 const snakeScoreBoard = document.getElementById("scoreCard");
 const snakeHiScoreBoard = document.getElementById("highScoreBoard");
